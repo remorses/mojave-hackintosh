@@ -93,10 +93,6 @@
 	<dict>
 		<key>Arguments</key>
 		<string>keepsyms=1 dart=0 debug=0x100 -v shikigva=40</string>
-		<key>BlackList</key>
-		<array>
-			<string></string>
-		</array>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Timeout</key>
@@ -119,7 +115,7 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				GRYAAA==
+				AAASWQ==
 				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
